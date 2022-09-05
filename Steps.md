@@ -1,6 +1,6 @@
-Step 0: Create new repo
-Step 1: Publish bug-fix, fix README, added steps, first main commit
-Step 2: Edited steps, second main commit
+Step 0: Create new repo<br>
+Step 1: Publish bug-fix, fix README, added steps, first main commit<br>
+Step 2: Edited steps, second main commit<br>
 Step 3: Edited README in bug-fix, first bug-fix commit
 Step 4: Added steps to bug-fix, second bug-fix commit
 Step 5: Merge main into bug-fix
