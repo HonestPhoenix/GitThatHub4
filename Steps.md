@@ -7,7 +7,7 @@ Step 5: Merge main into bug-fix<br>
 Step 6: Edited steps in bug-fix, fourth bug-fix commit<br>
 Step 7: Edited steps in bug-fix-experimental, first bug-fix-experimental commit<br>
 Step 8: Edited steps in bug-fix-experimental, second bug-fix-experimental commit<br>
-Step 9: Third bug-fix-experimental commit
+Step 9: Edited steps in bug-fix-experimental, third bug-fix-experimental commit<br>
 Step 10: Merge bug-fix-experimental into bug-fix
 Step 11: Fourth main commit
 Step 12: Edit steps in bug-fix, fifth bug-fix commit
