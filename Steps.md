@@ -8,8 +8,8 @@ Step 6: Edited steps in bug-fix, fourth bug-fix commit<br>
 Step 7: Edited steps in bug-fix-experimental, first bug-fix-experimental commit<br>
 Step 8: Edited steps in bug-fix-experimental, second bug-fix-experimental commit<br>
 Step 9: Edited steps in bug-fix-experimental, third bug-fix-experimental commit<br>
-Step 10: Merge bug-fix-experimental into bug-fix
-Step 11: Fourth main commit
-Step 12: Edit steps in bug-fix, fifth bug-fix commit
+Step 10: Merge bug-fix-experimental into bug-fix<br>
+Step 11: Fourth main commit<br>
+Step 12: Edit steps in bug-fix, fifth bug-fix commit<br>
 Step 13: Merge bug-fix into main
 Step 14: Edited steps in main, added dank meme, final main commit
